@@ -1,4 +1,4 @@
-# EcoSort-AI: MobileNetV2 Waste Classifier 🌍
+# Chlorofylo: MobileNetV2 Waste Classifier 🌍
 **Submission for SIEGA CUP 2026 - AI Engineering**
 
 ## 🚀 Project Overview
